@@ -11,6 +11,11 @@ function Home() {
             url='/daadda'
             isColor
         />
+        <Button 
+        title={"Bosing.."}
+        color='red'
+        bg
+        />
     </div>
   )
 }
